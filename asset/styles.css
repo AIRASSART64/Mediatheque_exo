@@ -121,7 +121,7 @@ h2 {
     margin: 0%; 
 }
 
-.books-list > li {
+.books-list > li  {
     padding: 12px 15px;
     margin-bottom: 10px;
     background-color: #f5f6f8;
